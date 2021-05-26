@@ -1,6 +1,8 @@
 # cnred-deqar
 DEQAR Connect API for CNRED
 
+The code runs on pages stored on an internal platform based on DokuWiki and compatible plugins - https://www.dokuwiki.org/plugins
+
 References:
 * https://docs.deqar.eu/web_api/#public-web-interface
   * https://admin.deqar.eu/
