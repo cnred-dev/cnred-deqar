@@ -1,1 +1,22 @@
-All the relevant code will be published here soon.
+<phpwikify>
+$account_id = 'cnred';
+$application_key = '81251e993f080d91ecf50127f0173cbe759fbf15';
+ 
+$naked_deqar_url = 'https://backend.deqar.eu/webapi/v2/browse/institutions/';
+ 
+ 
+$data = array ('Page' => '1', 'Limit' => '100');
+$data = http_build_query($data);
+
+ 
+$context_options = array (
+        'http' => array (
+            'method' => 'GET',
+            'header'=> "Content-type: application/json\r\n"
+                . "Content-Length: " . strlen($data) . "\r\n"
+                . "api-auth-accountid: " . $account_id . "\r\n"
+                . "api-auth-applicationkey: " . $application_key . "\r\n",
+            'content' => $data
+            )
+        );
+</phpwikify>
