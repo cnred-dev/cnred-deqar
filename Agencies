@@ -23,6 +23,6 @@ $context_options = array (
 
 <phpwikify>
 $http = new DokuHTTPClient();
-$data = $http->get('https://backend.deqar.eu/webapi/v2/browse/agencies/?ordering=name_primary&registered=False');
+$data = $http->get('https://backend.deqar.eu/webapi/v2/browse/agencies/');
 echo $data;
 </phpwikify>
