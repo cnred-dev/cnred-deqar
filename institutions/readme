@@ -1,1 +1,16 @@
-All the relevant code will be published here soon.
+====== DEQAR Institutions ======
+
+^**Câmpul din baza de date**^**Exemplu 1**^**Exemplu 2**^**Relevant: DA sau NU**^
+|country|France|Kazakhstan|**DA**|
+|deqar_id|DEQARINST1008|DEQARINST7087|  |
+|eter_id|FR0123|n/a|  |
+|identifiers_all|HCERES:0593559Y, Erasmus:F LILLE01, FR-ETER.BAS.NATID:0593559Y|n/a|  |
+|founding_date|1970-01-01|2020-07-08|  |
+|closure_date|2018-12-31|n/a|  |
+|name_primary|Lille University of Science and Technology|A.Baitursynov Kostanay Regional University|**DA**|
+|name_official|Université Lille 1 - Sciences technologies|А.Байтұрсынов атындағы Қостанай өңірлік университеті|DA|
+|name_versions|n/a|Костанайский региональный университет имени А.Байтурсынова|  |
+|city|Villeneuve-d’Ascq|n/a|  |
+|website_link|http://www.univ-lille1.fr/|https://ksu.edu.kz/|DA|
+|parent_institution|DEQARINST4556 Communauté d’universités et établissements Lille Nord de France|n/a|  |
+|historic_relationships|2018-07-01: succeeded by DEQARINST6647 Université de Lille|2020-07-08: absorbed DEQARINST3127 Kostanay State Pedagogical Institute, 2020-07-08: absorbed DEQARINST3128 Kostanay State University named after A. Baytursynov|  |
