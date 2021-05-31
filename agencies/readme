@@ -1,1 +1,31 @@
-All the relevant code will be published here soon.
+====== DEQAR Agencies ======
+
+^**Câmpul din baza de date**^**Exemplu 1**^**Exemplu 2**^**Relevant: DA sau NU**^
+|agency_id|39|22|  |
+|acronym_primary|QAA|CTI|  |
+|name_primary|Quality Assurance Agency for Higher Education|Engineering Degree Commission|DA|
+|is_registered|Registered|Registered|  |
+|registration_start|2013-07-01|2009-04-01|  |
+|registration_valid_to|2023-06-30|2024-06-30|  |
+|registration_note|QAA’s registration on EQAR only relates to review activities within the scope of the ESG as listed below. Capacity building activities (e.g. support of reviews in Albania) or other consultative services are not covered by registration on EQAR.|n/a|  |
+|register_entry|https://www.eqar.eu/register/agencies/agency/?id=39|https://www.eqar.eu/register/agencies/agency/?id=22|DA|
+|deqar_reports_link|https://www.eqar.eu/qa-results/search/?query=&agency=39|https://www.eqar.eu/qa-results/search/?query=&agency=22|  |
+|activities_institutional|Higher Education Review (England and Northern Ireland) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=114>, Quality Enhancement Review (Wales) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=115>, International Quality Review (IQR) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=120>, Unsatisfactory Quality Scheme/Concerns <https://www.eqar.eu/qa-results/search/?query=&esg_activity=117>, Review of Transnational Education (under revision) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=118>, Degree Awarding Powers (DAP) scrutiny <https://www.eqar.eu/qa-results/search/?query=&esg_activity=230>, Higher Education Review (Alternative Providers) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=315>, Enhancement Led Institutional Review (Scotland) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=116>, Quality and Standards Review (QSR) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=402>, Quality and Standards Review Monitoring and Intervention (QSR MI) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=403>, Gateway Quality Review Programme in Wales (GQRW) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=113>, Higher Education Review (Foreign Providers) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=404>, Recognition Scheme for Educational Oversight (RSEO) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=405>, Educational Oversight: Exceptional Arrangements <https://www.eqar.eu/qa-results/search/?query=&esg_activity=406>, Annual Monitoring for Educational Oversight <https://www.eqar.eu/qa-results/search/?query=&esg_activity=407>|n/a|  |
+|activities_programme|General Osteopathic Council (GOsC) Review <https://www.eqar.eu/qa-results/search/?query=&esg_activity=119>|Attribution of the EUR-ACE label at Master level <https://www.eqar.eu/qa-results/search/?query=&esg_activity=226>, Accreditation of engineering programmes <https://www.eqar.eu/qa-results/search/?query=&esg_activity=71>, initial accreditation of study programmes in engineering in France and abroad; <https://www.eqar.eu/qa-results/search/?query=&esg_activity=350>|  |
+|activities_mixed|n/a|Quality labels of French and foreign institutions (CeQuInt) <https://www.eqar.eu/qa-results/search/?query=&esg_activity=349>|  |
+|activities_joint_programmes|n/a|n/a|DA|
+|countries_official_eqa_activities|GBR United Kingdom|FRA France|DA|
+|countries_voluntary_eqa_activities|KWT Kuwait, TTO Trinidad and Tobago, ARE United Arab Emirates, MAC Macau, CYP Cyprus, IRL Ireland, GRC Greece|BFA Burkina Faso, CMR Cameroon, CHN China, People’s Republic of, CIV Cote d’Ivoire (Ivory Coast), DEU Germany, MAR Morocco, TUN Tunisia, CHE Switzerland, BEL Belgium, BGR Bulgaria, LUX Luxembourg|DA|
+|name_versions|n/a|Commission des Titres d’Ingénieurs (CTI)|  |
+|name_historical|n/a|n/a|  |
+|address|Southgate House|
+|Southgate Street|
+|Gloucester, GL 1 1UB|
+|United Kingdom|44 rue Cambronne|
+|75015 Paris|
+|France|  |
+|website|http://www.qaa.ac.uk/|http://www.cti-commission.fr|DA|
+|website_reports|http://www.qaa.ac.uk/InstitutionReports/Pages/default.aspx|https://www.cti-commission.fr/accreditation/|DA|
+|description_note|We are the Quality Assurance Agency for Higher Education (QAA). Our mission is to safeguard standards and improve the quality of UK higher education.||We offer advice, guidance and support to help UK universities, colleges and other institutions to provide the best possible student experience of higher education. We conduct reviews of institutions and publish reports detailing the findings. Our reports highlight good practice and contain recommendations to help improve quality.|CTI (Commission des Titres d’Ingenieurs) is an independent body fully involved in the development of the European Higher Education Area, established by the French law in 1934. Its missions are respectively: the evaluation and accreditation of higher education institutions in the fields of engineering, computer science, applied mathematics, project management, etc; the development of quality in engineering education; the promotion of engineering curricula and careers in France and abroad (i.e. Belgium, Bulgaria, Cameroon, China, Germany, Morocco, Switzerland, Tunisia, Viet-Nam, others in process...).|  |  |
+|In France, all official engineering programmes have to be accredited by CTI at least every five years. CTI is also authorised by the French law to accredit engineering programmes abroad. It is also one of the organizations authorised by ENAEE to deliver the EUR-ACE label at the master level.|  |
+|specialisation_note|n/a|CTI is a field dedicated agency, its scope is the accreditation of engineering programmes.|  |
