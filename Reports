@@ -20,3 +20,9 @@ $context_options = array (
             )
         );
 </phpwikify>
+
+<phpwikify>
+$http = new DokuHTTPClient();
+$data = $http->get('https://backend.deqar.eu/webapi/v2/browse/reports/');
+echo $data;
+</phpwikify>
