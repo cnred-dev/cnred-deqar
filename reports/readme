@@ -1,1 +1,24 @@
-All the relevant code will be published here soon.
+====== DEQAR Reports ======
+
+^**Câmpul din baza de date**^**Exemplu 1**^**Exemplu 2**^**Relevant: DA sau NU**^
+|country|Albania|China, People’s Republic of|**DA**|
+|hei_deqar_id|DEQARINST5881|DEQARINST5828|  |
+|hei_eter_id|AL0019|n/a|  |
+|hei_name|"EPOKA" University|Chongqing University of Posts and Telecommunications|**DA**|
+|programme_name|Banking and Finance|通信工程|DA|
+|programme_qf_ehea_level|first cycle|first cycle|DA|
+|programme_nqf_level|6|n/a|DA|
+|programme_qualification|B.A.|Bachelor of Engineering|DA|
+|report_id|48218|46962|  |
+|report_agency|evalag|ASIIN|  |
+|report_type|programme|programme|DA|
+|report_crossborder|t|t|  |
+|report_esg_activity_short|Programme accreditation|Programme accreditation|DA|
+|report_esg_activity_long|International programme accreditation|ASIIN seal programme accreditation|DA|
+|report_local_identifier|n/a|6773|  |
+|report_status|voluntary|voluntary|  |
+|report_valid_from|2020-03-01|2019-06-28|  |
+|report_decision|positive with conditions or restrictions|positive with conditions or restrictions|DA|
+|report_valid_to|2026-02-28|2021-01-25|  |
+|report_languages|English|English|DA|
+|report_files|[en:Assessment Report](https://backend.deqar.eu/reports/evalag/20200304_1533_epoka_finance_assessment_report_200227.pdf)|[en:Report](https://backend.deqar.eu/reports/ASIIN/96855_Accreditation_Report_CMT_CUPT_Cluster_CE_REV_2020-06-26.pdf_20201110_1348)|  |
