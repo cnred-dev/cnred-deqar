@@ -1,1 +1,47 @@
-All the relevant code will be published here soon.
+DEQAR Countries
+
+^**Câmpul din baza de date**^**Exemplu 1**^**Exemplu 2**^**Relevant: DA sau NU**^
+
+|deqar_country_id|101|63|  |
+
+|name_english|Luxembourg|Georgia|**DA**|
+
+|iso_3166_alpha2|LU|GE|  |
+
+|iso_3166_alpha3|LUX|GEO|  |
+
+|qa_requirements|- Institutional accreditation and programme accreditation.:|- Authorization and re-authorisation of higher education institutions: is obligatory for all HEIs in order to be allowed to carry out educational activities and to issue a diploma that is recognized by the state (every six years)
+- Accreditation of educational programmes: It is mandatory for doctoral programmes and programmes of regulated professions (Medicine, Law, Teacher Education, Veterinary, and Maritime) and it is an eligibility requirement for state funding in the case of all other study programmes.|DA|
+
+|cross_border_recognition|yes|partially / with conditions|DA|
+
+|cross_border_note|For the external evaluation of foreign private higher education institutions.​|Accreditation of higher education programmes can be done by a&nbsp;foreign QA agency. See regulation linked below (Article 28 of the Accreditation Provision).|DA|
+
+|cross_border_eligibility|EQAR registration; the agency is selected by the Ministry of Higher Education and Research.​​|n/a|  |
+
+|cross_border_conditions|The agency has to follow the accreditation criteria set out in the legal framework of the Grand Duchy of Luxembourg.|Criteria and procedures for external quality assurance must be validated by NCEQE|
+
+|  |  |
+
+|cross_border_recognition|The final decision is taken by the Ministry based on the result of the accreditation procedure.|The National Center for Educational Quality Enhancement of Georgia (NCEQE) checks the compatibility of the evaluation with National Standards and Procedures and recognises the accreditation granted by other foreign QA agencies, provided&nbsp;the agency meets these conditions and&nbsp;if the condition of recognition is indicated in the international agreement. The regulations and conditions are outlined in Art.&nbsp;28 of the Accreditation Provision approved by Order N65/n (see link below).|  |
+
+|european_approach_availability|partially / with conditions|partially / with conditions|DA|
+
+|european_approach_note|  *  The European Approach is available to the University of Luxembourg. Due to its ‘self-accrediting’ status the University of Luxembourg can employ the European Approach for its programmes.|
+
+|  *  Other Luxembourg higher education institutions that require external programme accreditation can not use the European Approach.|The draft agreement of institutions implementing the joint higher educational programme is ‘pre-approved’ by NCEQE and contains information regarding i.e. the content and implementation of the joint programme, the rule for awarding a joint academic degree and enrollment regulations. See further details under the links below: Rule for the&nbsp;Draft Agreement of a Joint Programme (art 2), the Law of Georgia on Educational Quality Enhancement (Art. 19/3) and Order №65 / N of the Minister of Education and Science of Georgia (Art. 28/2)|DA|
+
+|references|- Amendment of the Law of 19 June 2009 on the organisation of higher education <http://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n9/jo>
+- Law of 19 June 2009 on the organisation of higher education <http://legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/jo>
+- ENIC NARIC <http://www.enic-naric.net/luxembourg.aspx>
+- Luxembourg - European Higher Education Area <http://ehea.info/pid34250-cid101298/luxembourg.html>
+- Ministry responsible for higher education <http://www.mesr.public.lu/>
+- Law of 27 June 2018 on the organisation of the University of Luxembourg <http://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587/jo>
+- Amendment of the Law of 27 June 2018 on the organisation of the University of Luxembourg <http://legilux.public.lu/eli/etat/leg/loi/2018/08/09/a678/jo>
+- Ministry responsible for higher education <http://www.mesr.public.lu/enssup/Accreditations/201021_list-of-recognised-higher-education-programmes.pdf>
+- Grand ducal regulation of 24 August 2016 on the accreditation of foreign higher education institutions and programmes <http://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n11/jo>|- Ministry responsible for higher education <http://www.mes.gov.ge/higher_edu.php?id=2&lang=eng>
+- ENIC NARIC <http://www.enic-naric.net/georgia.aspx>
+- Georgia - European Higher Education Area <http://ehea.info/pid34250-cid101171/georgia.html>
+- Rule for the Draft Agreement of a Joint Programme <https://eqe.ge/res/docs/_ENG.pdf>
+- Accreditation Provision (Order No. 65 / N of the Minister of Education and Science of Georgia, March 28, 2018) <https://eqe.ge/res/docs/2019081216254665.pdf>
+- Law of Georgia on education quality improvement <https://eqe.ge/res/docs/EducationalQualityEnhancement.pdf>|DA|
